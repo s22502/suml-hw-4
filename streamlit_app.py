@@ -9,6 +9,8 @@ st.success('Gratulacje! Z powodzeniem uruchomiłeś aplikację')
 
 st.title('Homework SUML - Streamlit - s22502')
 
+st.image('./assets/translation.png')
+
 st.header('Opis')
 st.write('Aplikacja służy do tłumaczenia tekstu z języka angielskiego na język niemiecki oraz analizy wydźwięku emocjonalnego tekstu.')
 
